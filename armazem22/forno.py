@@ -1,1 +1,0 @@
-temperatura = str(input("A temperatura é: "))
